@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/write-first-c#/">
+    <Project Path="write-first-c#/module2/module2.csproj" />
+    <Project Path="write-first-c#/module4/module4.csproj" />
+  </Folder>
+</Solution>
