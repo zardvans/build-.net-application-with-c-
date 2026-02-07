@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/write-first-c#/module4/module4.csproj",
-      "projectName": "module4",
-      "projectPath": "/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/write-first-c#/module4/module4.csproj",
+      "projectUniqueName": "/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/01-write-first-c#/module2/module2.csproj",
+      "projectName": "module2",
+      "projectPath": "/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/01-write-first-c#/module2/module2.csproj",
       "packagesPath": "/home/user/.nuget/packages/",
-      "outputPath": "/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/write-first-c#/module4/obj/",
+      "outputPath": "/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/01-write-first-c#/module2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/user/.nuget/NuGet/NuGet.Config"

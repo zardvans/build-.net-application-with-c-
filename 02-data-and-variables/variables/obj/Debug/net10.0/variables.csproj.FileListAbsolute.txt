@@ -1,0 +1,15 @@
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables/bin/Debug/net10.0/variables
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables/bin/Debug/net10.0/variables.deps.json
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables/bin/Debug/net10.0/variables.runtimeconfig.json
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables/bin/Debug/net10.0/variables.dll
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables/bin/Debug/net10.0/variables.pdb
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables/obj/Debug/net10.0/variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables/obj/Debug/net10.0/variables.AssemblyInfoInputs.cache
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables/obj/Debug/net10.0/variables.AssemblyInfo.cs
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables/obj/Debug/net10.0/variables.csproj.CoreCompileInputs.cache
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables/obj/Debug/net10.0/variables.sourcelink.json
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables/obj/Debug/net10.0/variables.dll
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables/obj/Debug/net10.0/refint/variables.dll
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables/obj/Debug/net10.0/variables.pdb
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables/obj/Debug/net10.0/variables.genruntimeconfig.cache
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables/obj/Debug/net10.0/ref/variables.dll
