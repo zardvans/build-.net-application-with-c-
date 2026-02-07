@@ -1,0 +1,15 @@
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/literal-values/bin/Debug/net10.0/literal-values
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/literal-values/bin/Debug/net10.0/literal-values.deps.json
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/literal-values/bin/Debug/net10.0/literal-values.runtimeconfig.json
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/literal-values/bin/Debug/net10.0/literal-values.dll
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/literal-values/bin/Debug/net10.0/literal-values.pdb
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/literal-values/obj/Debug/net10.0/literal-values.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/literal-values/obj/Debug/net10.0/literal-values.AssemblyInfoInputs.cache
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/literal-values/obj/Debug/net10.0/literal-values.AssemblyInfo.cs
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/literal-values/obj/Debug/net10.0/literal-values.csproj.CoreCompileInputs.cache
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/literal-values/obj/Debug/net10.0/literal-values.sourcelink.json
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/literal-values/obj/Debug/net10.0/literal-values.dll
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/literal-values/obj/Debug/net10.0/refint/literal-values.dll
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/literal-values/obj/Debug/net10.0/literal-values.pdb
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/literal-values/obj/Debug/net10.0/literal-values.genruntimeconfig.cache
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/literal-values/obj/Debug/net10.0/ref/literal-values.dll

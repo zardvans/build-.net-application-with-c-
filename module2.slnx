@@ -1,6 +1,9 @@
 <Solution>
-  <Folder Name="/write-first-c#/">
-    <Project Path="write-first-c#/module2/module2.csproj" />
-    <Project Path="write-first-c#/module4/module4.csproj" />
+  <Folder Name="/01-write-first-c#/">
+    <Project Path="01-write-first-c#/module2/module2.csproj" />
+    <Project Path="01-write-first-c#/module4/module4.csproj" />
+  </Folder>
+  <Folder Name="/02-data-and-variables/">
+    <Project Path="02-data-and-variables/literal-values/literal-values.csproj" />
   </Folder>
 </Solution>
