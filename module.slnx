@@ -5,6 +5,7 @@
   </Folder>
   <Folder Name="/02-data-and-variables/">
     <Project Path="02-data-and-variables/literal-values/literal-values.csproj" />
+    <Project Path="02-data-and-variables/variables-challenge/variables-challenge.csproj" />
     <Project Path="02-data-and-variables/variables/variables.csproj" />
   </Folder>
 </Solution>

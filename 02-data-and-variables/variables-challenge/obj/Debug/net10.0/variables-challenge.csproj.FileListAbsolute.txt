@@ -1,0 +1,15 @@
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables-challenge/bin/Debug/net10.0/variables-challenge
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables-challenge/bin/Debug/net10.0/variables-challenge.deps.json
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables-challenge/bin/Debug/net10.0/variables-challenge.runtimeconfig.json
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables-challenge/bin/Debug/net10.0/variables-challenge.dll
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables-challenge/bin/Debug/net10.0/variables-challenge.pdb
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables-challenge/obj/Debug/net10.0/variables-challenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables-challenge/obj/Debug/net10.0/variables-challenge.AssemblyInfoInputs.cache
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables-challenge/obj/Debug/net10.0/variables-challenge.AssemblyInfo.cs
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables-challenge/obj/Debug/net10.0/variables-challenge.csproj.CoreCompileInputs.cache
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables-challenge/obj/Debug/net10.0/variables-challenge.sourcelink.json
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables-challenge/obj/Debug/net10.0/variables-challenge.dll
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables-challenge/obj/Debug/net10.0/refint/variables-challenge.dll
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables-challenge/obj/Debug/net10.0/variables-challenge.pdb
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables-challenge/obj/Debug/net10.0/variables-challenge.genruntimeconfig.cache
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/variables-challenge/obj/Debug/net10.0/ref/variables-challenge.dll
