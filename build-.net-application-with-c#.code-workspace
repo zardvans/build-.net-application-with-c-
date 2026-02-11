@@ -5,6 +5,9 @@
 		}
     ],
     "settings": {
-        "dotnet.defaultSolution": "module2.slnx"
+        "dotnet.defaultSolution": "module.slnx"
+    },
+    "launch": {
+        "version": "0.2.0"
     }
 }
