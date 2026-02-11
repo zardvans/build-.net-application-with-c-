@@ -1,0 +1,15 @@
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/strings-format-display-challenge/bin/Debug/net10.0/strings-format-display-challenge
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/strings-format-display-challenge/bin/Debug/net10.0/strings-format-display-challenge.deps.json
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/strings-format-display-challenge/bin/Debug/net10.0/strings-format-display-challenge.runtimeconfig.json
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/strings-format-display-challenge/bin/Debug/net10.0/strings-format-display-challenge.dll
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/strings-format-display-challenge/bin/Debug/net10.0/strings-format-display-challenge.pdb
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/strings-format-display-challenge/obj/Debug/net10.0/strings-format-display-challenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/strings-format-display-challenge/obj/Debug/net10.0/strings-format-display-challenge.AssemblyInfoInputs.cache
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/strings-format-display-challenge/obj/Debug/net10.0/strings-format-display-challenge.AssemblyInfo.cs
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/strings-format-display-challenge/obj/Debug/net10.0/strings-format-display-challenge.csproj.CoreCompileInputs.cache
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/strings-format-display-challenge/obj/Debug/net10.0/strings-format-display-challenge.sourcelink.json
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/strings-format-display-challenge/obj/Debug/net10.0/strings-format-display-challenge.dll
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/strings-format-display-challenge/obj/Debug/net10.0/refint/strings-format-display-challenge.dll
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/strings-format-display-challenge/obj/Debug/net10.0/strings-format-display-challenge.pdb
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/strings-format-display-challenge/obj/Debug/net10.0/strings-format-display-challenge.genruntimeconfig.cache
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/strings-format-display-challenge/obj/Debug/net10.0/ref/strings-format-display-challenge.dll
