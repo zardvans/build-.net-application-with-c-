@@ -1,0 +1,15 @@
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/combine-strings/bin/Debug/net10.0/combine-strings
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/combine-strings/bin/Debug/net10.0/combine-strings.deps.json
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/combine-strings/bin/Debug/net10.0/combine-strings.runtimeconfig.json
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/combine-strings/bin/Debug/net10.0/combine-strings.dll
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/combine-strings/bin/Debug/net10.0/combine-strings.pdb
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/combine-strings/obj/Debug/net10.0/combine-strings.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/combine-strings/obj/Debug/net10.0/combine-strings.AssemblyInfoInputs.cache
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/combine-strings/obj/Debug/net10.0/combine-strings.AssemblyInfo.cs
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/combine-strings/obj/Debug/net10.0/combine-strings.csproj.CoreCompileInputs.cache
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/combine-strings/obj/Debug/net10.0/combine-strings.sourcelink.json
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/combine-strings/obj/Debug/net10.0/combine-strings.dll
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/combine-strings/obj/Debug/net10.0/refint/combine-strings.dll
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/combine-strings/obj/Debug/net10.0/combine-strings.pdb
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/combine-strings/obj/Debug/net10.0/combine-strings.genruntimeconfig.cache
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/combine-strings/obj/Debug/net10.0/ref/combine-strings.dll
