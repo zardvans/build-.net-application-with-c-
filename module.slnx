@@ -4,6 +4,7 @@
     <Project Path="01-write-first-c#/module2/module2.csproj" />
   </Folder>
   <Folder Name="/02-data-and-variables/">
+    <Project Path="02-data-and-variables/basic-formatting/basic-formatting.csproj" />
     <Project Path="02-data-and-variables/literal-values/literal-values.csproj" />
     <Project Path="02-data-and-variables/variables-challenge/variables-challenge.csproj" />
     <Project Path="02-data-and-variables/variables/variables.csproj" />

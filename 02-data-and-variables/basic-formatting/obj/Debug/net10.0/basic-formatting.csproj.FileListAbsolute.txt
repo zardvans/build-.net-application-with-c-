@@ -1,0 +1,15 @@
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/basic-formatting/bin/Debug/net10.0/basic-formatting
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/basic-formatting/bin/Debug/net10.0/basic-formatting.deps.json
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/basic-formatting/bin/Debug/net10.0/basic-formatting.runtimeconfig.json
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/basic-formatting/bin/Debug/net10.0/basic-formatting.dll
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/basic-formatting/bin/Debug/net10.0/basic-formatting.pdb
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/basic-formatting/obj/Debug/net10.0/basic-formatting.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/basic-formatting/obj/Debug/net10.0/basic-formatting.AssemblyInfoInputs.cache
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/basic-formatting/obj/Debug/net10.0/basic-formatting.AssemblyInfo.cs
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/basic-formatting/obj/Debug/net10.0/basic-formatting.csproj.CoreCompileInputs.cache
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/basic-formatting/obj/Debug/net10.0/basic-formatting.sourcelink.json
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/basic-formatting/obj/Debug/net10.0/basic-formatting.dll
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/basic-formatting/obj/Debug/net10.0/refint/basic-formatting.dll
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/basic-formatting/obj/Debug/net10.0/basic-formatting.pdb
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/basic-formatting/obj/Debug/net10.0/basic-formatting.genruntimeconfig.cache
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/02-data-and-variables/basic-formatting/obj/Debug/net10.0/ref/basic-formatting.dll
