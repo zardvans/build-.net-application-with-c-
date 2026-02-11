@@ -11,4 +11,7 @@
     <Project Path="02-data-and-variables/variables-challenge/variables-challenge.csproj" />
     <Project Path="02-data-and-variables/variables/variables.csproj" />
   </Folder>
+  <Folder Name="/03-basic-operations/">
+    <Project Path="03-basic-operations/basic-number-operations-in-csharp/basic-number-operations-in-csharp.csproj" />
+  </Folder>
 </Solution>

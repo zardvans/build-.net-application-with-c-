@@ -1,0 +1,15 @@
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/03-basic-operations/basic-number-operations-in-csharp/bin/Debug/net10.0/basic-number-operations-in-csharp
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/03-basic-operations/basic-number-operations-in-csharp/bin/Debug/net10.0/basic-number-operations-in-csharp.deps.json
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/03-basic-operations/basic-number-operations-in-csharp/bin/Debug/net10.0/basic-number-operations-in-csharp.runtimeconfig.json
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/03-basic-operations/basic-number-operations-in-csharp/bin/Debug/net10.0/basic-number-operations-in-csharp.dll
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/03-basic-operations/basic-number-operations-in-csharp/bin/Debug/net10.0/basic-number-operations-in-csharp.pdb
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/03-basic-operations/basic-number-operations-in-csharp/obj/Debug/net10.0/basic-number-operations-in-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/03-basic-operations/basic-number-operations-in-csharp/obj/Debug/net10.0/basic-number-operations-in-csharp.AssemblyInfoInputs.cache
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/03-basic-operations/basic-number-operations-in-csharp/obj/Debug/net10.0/basic-number-operations-in-csharp.AssemblyInfo.cs
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/03-basic-operations/basic-number-operations-in-csharp/obj/Debug/net10.0/basic-number-operations-in-csharp.csproj.CoreCompileInputs.cache
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/03-basic-operations/basic-number-operations-in-csharp/obj/Debug/net10.0/basic-number-operations-in-csharp.sourcelink.json
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/03-basic-operations/basic-number-operations-in-csharp/obj/Debug/net10.0/basic-number-operations-in-csharp.dll
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/03-basic-operations/basic-number-operations-in-csharp/obj/Debug/net10.0/refint/basic-number-operations-in-csharp.dll
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/03-basic-operations/basic-number-operations-in-csharp/obj/Debug/net10.0/basic-number-operations-in-csharp.pdb
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/03-basic-operations/basic-number-operations-in-csharp/obj/Debug/net10.0/basic-number-operations-in-csharp.genruntimeconfig.cache
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/03-basic-operations/basic-number-operations-in-csharp/obj/Debug/net10.0/ref/basic-number-operations-in-csharp.dll
