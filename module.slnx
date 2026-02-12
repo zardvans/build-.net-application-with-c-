@@ -16,5 +16,6 @@
   </Folder>
   <Folder Name="/04-guided-project-student-grades/">
     <Project Path="04-guided-project-student-grades/Calculate and print student grades/Calculate and print student grades.csproj" />
+    <Project Path="04-guided-project-student-grades/calculate-final-gpa/calculate-final-gpa.csproj" />
   </Folder>
 </Solution>
