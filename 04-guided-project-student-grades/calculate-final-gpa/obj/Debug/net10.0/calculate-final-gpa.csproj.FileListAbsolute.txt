@@ -1,0 +1,15 @@
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/calculate-final-gpa/bin/Debug/net10.0/calculate-final-gpa
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/calculate-final-gpa/bin/Debug/net10.0/calculate-final-gpa.deps.json
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/calculate-final-gpa/bin/Debug/net10.0/calculate-final-gpa.runtimeconfig.json
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/calculate-final-gpa/bin/Debug/net10.0/calculate-final-gpa.dll
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/calculate-final-gpa/bin/Debug/net10.0/calculate-final-gpa.pdb
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/calculate-final-gpa/obj/Debug/net10.0/calculate-final-gpa.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/calculate-final-gpa/obj/Debug/net10.0/calculate-final-gpa.AssemblyInfoInputs.cache
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/calculate-final-gpa/obj/Debug/net10.0/calculate-final-gpa.AssemblyInfo.cs
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/calculate-final-gpa/obj/Debug/net10.0/calculate-final-gpa.csproj.CoreCompileInputs.cache
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/calculate-final-gpa/obj/Debug/net10.0/calculate-final-gpa.sourcelink.json
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/calculate-final-gpa/obj/Debug/net10.0/calculate-final-gpa.dll
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/calculate-final-gpa/obj/Debug/net10.0/refint/calculate-final-gpa.dll
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/calculate-final-gpa/obj/Debug/net10.0/calculate-final-gpa.pdb
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/calculate-final-gpa/obj/Debug/net10.0/calculate-final-gpa.genruntimeconfig.cache
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/calculate-final-gpa/obj/Debug/net10.0/ref/calculate-final-gpa.dll
