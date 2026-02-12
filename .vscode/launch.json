@@ -5,7 +5,7 @@
             "name": "C#: microsoft learn [Default Configuration]",
             "type": "dotnet",
             "request": "launch",
-            "projectPath": "${workspaceFolder}/02-data-and-variables/combine-strings/combine-strings.csproj"
+            "projectPath": "${workspaceFolder}/04-guided-project-student-grades/Calculate and print student grades/Calculate and print student grades.csproj"
         }
     ]
 }

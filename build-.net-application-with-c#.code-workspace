@@ -4,10 +4,11 @@
 			"path": "."
 		}
     ],
-    "settings": {
-        "dotnet.defaultSolution": "module.slnx"
-    },
+    "settings": {},
     "launch": {
-        "version": "0.2.0"
+        "version": "0.2.0",
+        "configurations": [
+        
+        ]
     }
 }
