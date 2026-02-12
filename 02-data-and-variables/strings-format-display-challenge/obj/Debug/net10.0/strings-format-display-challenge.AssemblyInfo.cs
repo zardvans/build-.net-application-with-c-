@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("strings-format-display-challenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a51690722663a00b1f580dc8b2bf58f8e3983799")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+332bb778f048b2088c636fd7a6421bdbe4623e24")]
 [assembly: System.Reflection.AssemblyProductAttribute("strings-format-display-challenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("strings-format-display-challenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

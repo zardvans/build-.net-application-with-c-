@@ -15,5 +15,5 @@ string firstName = "Bob";
 Console.WriteLine(firstName);
 
 // var message;
-var message = "Hello World";
+// var message = "Hello World";
 // message = 1.25m;

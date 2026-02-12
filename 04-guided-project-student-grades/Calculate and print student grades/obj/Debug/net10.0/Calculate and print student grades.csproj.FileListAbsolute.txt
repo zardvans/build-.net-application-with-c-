@@ -1,0 +1,15 @@
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/Calculate and print student grades/bin/Debug/net10.0/Calculate and print student grades
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/Calculate and print student grades/bin/Debug/net10.0/Calculate and print student grades.deps.json
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/Calculate and print student grades/bin/Debug/net10.0/Calculate and print student grades.runtimeconfig.json
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/Calculate and print student grades/bin/Debug/net10.0/Calculate and print student grades.dll
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/Calculate and print student grades/bin/Debug/net10.0/Calculate and print student grades.pdb
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/Calculate and print student grades/obj/Debug/net10.0/Calculate and print student grades.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/Calculate and print student grades/obj/Debug/net10.0/Calculate and print student grades.AssemblyInfoInputs.cache
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/Calculate and print student grades/obj/Debug/net10.0/Calculate and print student grades.AssemblyInfo.cs
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/Calculate and print student grades/obj/Debug/net10.0/Calculate and print student grades.csproj.CoreCompileInputs.cache
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/Calculate and print student grades/obj/Debug/net10.0/Calculate and print student grades.sourcelink.json
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/Calculate and print student grades/obj/Debug/net10.0/Calculate and print student grades.dll
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/Calculate and print student grades/obj/Debug/net10.0/refint/Calculate and print student grades.dll
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/Calculate and print student grades/obj/Debug/net10.0/Calculate and print student grades.pdb
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/Calculate and print student grades/obj/Debug/net10.0/Calculate and print student grades.genruntimeconfig.cache
+/home/user/projects/MicrosoftLearn/build-.net-application-with-c#/04-guided-project-student-grades/Calculate and print student grades/obj/Debug/net10.0/ref/Calculate and print student grades.dll
